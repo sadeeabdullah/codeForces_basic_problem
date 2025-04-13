@@ -1,3 +1,5 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
+
 #include<stdio.h>
 int main(){
     int N;
@@ -20,3 +22,4 @@ int main(){
     
     return 0;
 }
+
